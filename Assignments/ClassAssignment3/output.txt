@@ -1,0 +1,8 @@
+Delete by position
+9 8 7 6 5 4 3 2 1 0 
+9 8 7 6 4 3 2 1 0 
+
+
+Delete by value
+9 8 7 6 5 4 3 2 1 0 
+9 8 7 5 4 3 2 1 0 

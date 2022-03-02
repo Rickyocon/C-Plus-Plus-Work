@@ -1,0 +1,5 @@
+Enter starting number: Enter a ending number: The Prime numbers inbetween the numbers you entered are: 
+2
+3
+5
+7

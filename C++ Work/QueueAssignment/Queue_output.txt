@@ -1,0 +1,16 @@
+Back was a success
+Back was a success
+Back was a success
+Back was a success
+Back was a success
+Back was a success
+--------------------------------------
+testing to see if front was a success
+Front was a success
+--------------------------------------
+Here is the queue before dequeue
+0  1  2  3  4  5  
+--------------------------------------
+This is the queue after removing front of queue(dequeue)
+Dequeue was a success
+1  2  3  4  5  

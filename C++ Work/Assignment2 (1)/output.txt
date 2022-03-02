@@ -1,0 +1,41 @@
+Please enter a non negative integer: 15
+Please enter the base of the number(2-36): 6
+ The number you entered at base 10 is:11
+
+
+Please enter a non negative integer: 123
+Please enter the base of the number(2-36): 5
+ The number you entered at base 10 is:38
+
+
+Please enter a non negative integer: N
+Please enter the base of the number(2-36): 36
+The number you entered at base 10 is:23
+
+
+Please enter a non negative integer: 2555
+Please enter the base of the number(2-36): 26
+ The number you entered at base 10 is:38667
+
+
+Please enter a non negative integer: Z
+Please enter the base of the number(2-36): 36
+ The number you entered at base 10 is:35
+
+
+
+Please enter a non negative integer: ZWP
+Please enter the base of the number(2-36): 12
+Invalid base -- The base entered was either equal or smaller than the number itself
+
+
+
+Please enter a non negative integer: ZWP
+Please enter the base of the number(2-36): 36
+ The number you entered at base 10 is:46537
+
+
+Please enter a non negative integer: 12345
+Please enter the base of the number(2-36): 4
+Invalid base -- The base entered was either equal or smaller than the number itself
+

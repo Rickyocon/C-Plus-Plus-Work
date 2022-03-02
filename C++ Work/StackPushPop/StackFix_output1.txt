@@ -1,0 +1,2 @@
+Enter a postfix expression
+The evaluated expression is: 6

@@ -1,0 +1,9 @@
+Size of int is: 4
+the adress of i is: 0x7ffd0f55edcc
+the adress of j is: 0x7ffd0f55edc8
+the adress of d is: 0x7ffd0f55edd0
+the adress of d2 is: 0x7ffd0f55edc0
+This is the adress that iPtr holds is: 0x7ffd0f55edcc
+The value that sits at the address that iPtr points to is: 10
+The value that sits at the address that iPtr points to is: 21
+The value of i is: 21

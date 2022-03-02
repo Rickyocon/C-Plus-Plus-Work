@@ -1,0 +1,39 @@
+//Libraries-------------------------------------------------------
+#include<iostream>
+#include<fstream>
+#include<string>
+#include<cerrno>
+#include<cstring>
+using namespace std;
+//----------------------------------------------------------------
+
+int main(){
+    
+    ifstream fstrm;
+    string filename;
+    cout<<"Enter a file name: ";
+    cin>>filename;
+    fstrm.open(filename.c_str());
+    //const int BUFF_SIZE = 1024;
+    //char buff[BUFF_SIZE];
+    string buff;
+
+    if(fstrm.fail())
+    {
+        cerr<<"Error: file error "<<strerror(errno)<<endl;
+        return errno;
+    }
+
+    while(fstrm.good())
+    {
+        //fstrm>>buff;
+        getline(fstrm, buff);
+        cout<<buff<<endl;
+    }
+    fstrm.close();
+    
+
+    return 0;
+}
+
+//----------------------------------------------------------------

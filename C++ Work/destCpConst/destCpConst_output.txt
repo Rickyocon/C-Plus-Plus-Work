@@ -1,0 +1,8 @@
+Deafault constructor for mc3 called
+Destructor for mc3 called
+Deafault constructor for mc1 called
+copy constructor for mc1 copy called
+Deafault constructor for mc4 called
+Destructor for mc4 called
+Destructor for mc1 copy called
+Destructor for mc1 called

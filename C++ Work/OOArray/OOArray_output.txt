@@ -1,0 +1,7 @@
+Using default constructor, size is: 0
+Use explicit size constructor
+Using explicit constructor, size is: 1000
+Array value at loc before change: 0
+Array value at loc after change: 1
+Caught an exception, moving forward
+All is well, program is ending

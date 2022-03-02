@@ -1,0 +1,8 @@
+Last Name      : 
+First Name     : 
+Student ID     : 0
+Major          :
+Graduation Year: 0
+Gender         : 
+
+Enter Last Name: 
